@@ -1,0 +1,1 @@
+The repository consists all homeworks done on JS-classes from SOLVVE 
