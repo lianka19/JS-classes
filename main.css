@@ -1,0 +1,33 @@
+
+#butColor{
+    color: #4CAF50; /* Green */  
+    background-color: #f44336; /* Red */
+
+    border: none;
+    font-size: 30px;
+    margin-left: 45%;
+    padding: 15px 30px;
+    width: 150px;
+}
+
+#act{
+    margin-left: 21px;
+}
+
+span#spaceForResult{
+    margin-left: 21px;
+    font-weight: bold;
+}
+
+
+button#butResult{
+    color: #9888c9; /* Green */  
+    background-color: #56465c; /* Red */
+
+    border: none;
+    font-size: 16px;
+    margin-top: 5px;
+    padding: 5px 5px;
+    width: 70px;
+
+}
